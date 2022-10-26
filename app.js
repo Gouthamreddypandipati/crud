@@ -20,5 +20,5 @@ app.use('/user',routing)
 
 
 app.listen(9000,()=>{
-    console.log('started')
+    console.log('started to listen')
 })
